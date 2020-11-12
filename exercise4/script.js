@@ -8,6 +8,8 @@
 // IF they say they are over 18, respond with:
 // "Powering On. Enjoy the ride!"
 
+
+
 let age = Number(prompt("What is your age?"));
 let bal = Number(prompt("What is your BAL currently?")); 
 
