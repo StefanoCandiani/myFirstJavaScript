@@ -39,5 +39,7 @@ console.log(array.reverse())
 //["Kiwi", "Oranges", "Blueberries"]
 
 // using this array,
-// var array2 = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
+var array2 = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 // access "Oranges".
+
+console.log(array2[1][2]);
